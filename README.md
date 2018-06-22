@@ -1,2 +1,2 @@
-# k8s-basic-training
-Kubernetes Basic Training exercises 
+# k8s-intro-training
+Kubernetes Intro Training exercises 
